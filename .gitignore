@@ -1,0 +1,9 @@
+
+*.iml
+*.xml
+venv/Scripts/activate
+venv/Scripts/activate.bat
+*.cfg
+*.ps1
+*.exe
+*.bat
